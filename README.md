@@ -16,6 +16,8 @@ My name is Natalya and I'm a Frontend Developer! :computer:
 <code><img height="35"  title="Figma" alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></code>
 <code><img height="35"  title="VScode" alt="VScode" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></code>
 
+---
+
 ### :relaxed: Let's get in touch:
 
 
