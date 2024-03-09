@@ -4,7 +4,7 @@ My name is Natalya and I'm a Frontend Developer! :computer:
 
 - 🌱 I’m currently taking a 2-year asynchronous course on web development
 - 🔭 At the moment I'm working on course projects and trying to build some small side projects to apply the acquired knowledge 
-- ⚡ Fun fact: I'm a fan of BTS and Korean culture (maybe because I'm Korean myself? hmm...:stuck_out_tongue_winking_eye:)
+- ⚡ Fun fact: I'm a fan of the "BTS", Korean/Japanese/Chinese cuisine and ukulele lessons. :stuck_out_tongue_winking_eye:)
 
 ### Technologies:
 <code><img height="35"  title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"></code>
