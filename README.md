@@ -2,9 +2,11 @@
 
 My name is Natalya and I'm a Frontend Developer! :computer:
 
-- 🌱 I’m currently taking a 2-year asynchronous course on web development
-- 🔭 At the moment I'm working on course projects and trying to build some small side projects to apply the acquired knowledge 
-- ⚡ Fun fact: I'm a fan of the "BTS", Korean/Japanese/Chinese cuisine and ukulele lessons. :stuck_out_tongue_winking_eye:)
+- 🌱 I’m currently taking a solo course on web development
+- 🔭 At the moment I'm building course projects and some other small projects to apply the acquired knowledge 
+- ⚡ Fun fact:
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=300&color=E52B50&vCenter=true&random=false&width=800&height=30&lines=I+love+Korean+and+Chinese+cuisine;I+love+Harry+Potter+book+series;I+didn't+watch+The+Game+of+Thrones+series+but+I+read+the+book+series;I+like+watching+funny+videos+about+cats;I+learn+to+play+the+ukulele;I'm+not+really+keen+on+sports" alt="Typing SVG" />
 
 ### Technologies:
 <code><img height="35"  title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"></code>
