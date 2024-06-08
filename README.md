@@ -2,7 +2,7 @@
 
 My name is Natalya and I'm taking steps to become a Frontend Developer and find a job of my dream! :computer:
 
-- 🌱 I’m currently taking courses on web development at various education platforms like [Udemy](https://www.udemy.com), [JAVASCRIPT.RU](https://learn.javascript.ru/), [Learn JavaScript](https://learnjavascript.online/)
+- 🌱 I’m currently taking courses on web development at various education platforms like [HTML Academy](https://htmlacademy.ru/), [Udemy](https://www.udemy.com), [JAVASCRIPT.RU](https://learn.javascript.ru/), [Learn JavaScript](https://learnjavascript.online/)
 - 🔭 At the moment I'm building pet projects to apply the acquired knowledge 
 - ⚡ Fun fact:
   
