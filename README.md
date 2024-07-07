@@ -17,6 +17,7 @@ My name is Natalya and I adore front-end development! :computer:
 ### Tools:
 <code><img height="35"  title="Figma" alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></code>
 <code><img height="35"  title="VScode" alt="VScode" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></code>
+<code><img height="35"  title="Git" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></code>
 
 ---
 
