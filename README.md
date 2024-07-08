@@ -2,8 +2,8 @@
 
 My name is Natalya and I adore front-end development! :computer:
 
-- 🌱 I believe in the power of continuous self-education. I'm constantly learning using various education platforms like [HTML Academy](https://htmlacademy.ru/), [Udemy](https://www.udemy.com), [JAVASCRIPT.RU](https://learn.javascript.ru/), [Learn JavaScript](https://learnjavascript.online/)
-- 🔭 I'm currently in the process of learning React
+- 🌱 I believe in the power of continuous self-education. I'm constantly learning with the help of various education platforms like [HTML Academy](https://htmlacademy.ru/), [Udemy](https://www.udemy.com), [JAVASCRIPT.RU](https://learn.javascript.ru/), [Learn JavaScript](https://learnjavascript.online/)
+- 🔭 I'm currently in the process of learning and practicing React
 - ⚡ Fun fact:
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=300&color=E52B50&vCenter=true&random=false&width=800&height=30&lines=I+love+Korean+and+Chinese+cuisine;I+love+Harry+Potter+book+series;I+didn't+watch+The+Game+of+Thrones+series+but+I+read+the+book+series;I+like+watching+funny+videos+about+animals;I+learn+to+play+the+ukulele;I'm+not+really+keen+on+sports" alt="Typing SVG" />
