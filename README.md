@@ -3,7 +3,7 @@
 My name is Natalya and I adore front-end development! :computer:
 
 - 🌱 I believe in the power of continuous self-education. My main sources of knowledge among others are: [HTML Academy](https://htmlacademy.ru/), [Udemy](https://www.udemy.com), [JAVASCRIPT.RU](https://learn.javascript.ru/), [Learn JavaScript](https://learnjavascript.online/)
-- ⚡ I'm ambivert with ISFJ personality. I enjoy helping my team succeed and make sure that everyone has the support they need to do their best work.
+
   
   
 ### Technologies:
